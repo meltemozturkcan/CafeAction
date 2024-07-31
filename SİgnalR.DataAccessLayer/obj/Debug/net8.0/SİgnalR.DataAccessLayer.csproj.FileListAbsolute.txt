@@ -1,0 +1,17 @@
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\bin\Debug\net8.0\SİgnalR.DataAccessLayer.deps.json
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\bin\Debug\net8.0\SİgnalR.DataAccessLayer.runtimeconfig.json
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\bin\Debug\net8.0\SİgnalR.DataAccessLayer.dll
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\bin\Debug\net8.0\SİgnalR.DataAccessLayer.pdb
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\bin\Debug\net8.0\SignalR.EntityLayer.dll
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\bin\Debug\net8.0\SignalR.EntityLayer.pdb
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\obj\Debug\net8.0\SİgnalR.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\obj\Debug\net8.0\SİgnalR.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\obj\Debug\net8.0\SİgnalR.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\obj\Debug\net8.0\SİgnalR.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\obj\Debug\net8.0\SİgnalR.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\obj\Debug\net8.0\SİgnalR.DataAccessLayer.csproj.CopyComplete
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\obj\Debug\net8.0\SİgnalR.DataAccessLayer.dll
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\obj\Debug\net8.0\refint\SİgnalR.DataAccessLayer.dll
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\obj\Debug\net8.0\SİgnalR.DataAccessLayer.pdb
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\obj\Debug\net8.0\SİgnalR.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Meltem\Desktop\SİgnalRestorant\SİgnalR.DataAccessLayer\obj\Debug\net8.0\ref\SİgnalR.DataAccessLayer.dll

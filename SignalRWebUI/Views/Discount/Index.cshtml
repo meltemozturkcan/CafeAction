@@ -1,0 +1,59 @@
+﻿@model List<ResultDiscountDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Admin/Index.cshtml";
+}
+
+<div class="content">
+    <div class="container-fluid">
+        <h4 class="page-title">İndirim İşlemleri</h4>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-title">İndirim Listesi</div>
+                    </div>
+                    <div class="card-body">
+                        <div class="card-sub">
+                            İndirim İle İlgili İşlemleri Aşağıdan Gerçekleştirebilirsiniz.
+                            .<br /><br />
+                            <strong>Not:</strong><i> Ana Sayfa tema bütünlüğü için 2 adet indirimin aktif olması gerekmektedir.</i>
+                        </div>
+                        <table class="table mt-3 text-center">
+                            <thead>
+                                <tr>
+                                    <th scope="col">İndirim Oranı</th>
+                                    <th scope="col">Ürün Görseli</th>
+                                    <th scope="col">Yayın Durumu</th>
+                                    <th colspan="4" scope="col">Durum</th>
+
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <th>% @item.Amout</th>
+                                        <td><img style="width:200px; height:200px" src="@item.ImageUrl" /></td>
+                                        <td>@(item.status == true ? "Aktif" :"Pasif")</td>
+
+                                        <td><a class="btn btn-outline-danger" href="/Discount/DeleteDiscount/@item.DiscountID">Sil</a></td>
+                                        <td><a class="btn btn-outline-success" href="/Discount/UpdateDiscount/@item.DiscountID">Güncelle</a></td>
+                                        <td><a class="btn btn-outline-dark" href="/Discount/UpdateToTrue/@item.DiscountID">Aktif</a></td>
+                                        <td><a class="btn btn-outline-warning" href="/Discount/UpdateToFalse/@item.DiscountID">Pasif</a></td>
+                                    </tr>
+                                }
+
+                            </tbody>
+                        </table>
+                        <a href="/Discount/CreateDiscount" class="btn btn-outline-primary">Yeni İndirim Ekle</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
